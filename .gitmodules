@@ -1,4 +1,0 @@
-[submodule "01-introduccion-a-python/curso-bourbaki"]
-	path = 01-introduccion-a-python/curso-bourbaki
-	url = https://github.com/NxrFesdac/Introduccion-a-python.git
-	ignore = dirty
