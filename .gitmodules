@@ -1,0 +1,3 @@
+[submodule "01-introduccion-a-python/ClassificadorCancerEsofago"]
+	path = 01-introduccion-a-python/ClassificadorCancerEsofago
+	url = https://github.com/AnIsAsPe/ClassificadorCancerEsofago.git

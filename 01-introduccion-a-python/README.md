@@ -17,4 +17,7 @@ _Espacio para notas de clase._
 
 ## Recursos
 
-_Links y materiales del curso._
+- [ClassificadorCancerEsofago](./ClassificadorCancerEsofago/) — Repo del curso (submodule). Contiene notebooks de introducción a Python/Jupyter y un clasificador de cáncer de esófago con Perceptron.
+  - `Notebooks/Introducción_a_Python_y_Jupyter_Notebook.ipynb` — Intro a Python y Jupyter
+  - `Notebooks/PerceptronClasificadorCancerEsófago.ipynb` — Clasificador binario de imágenes
+  - `Datos/ClasesImagenes.csv` — Etiquetas de imágenes (0=sano, 1=displasia/cáncer)
