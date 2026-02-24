@@ -1,3 +1,6 @@
 [submodule "01-introduccion-a-python/ClassificadorCancerEsofago"]
 	path = 01-introduccion-a-python/ClassificadorCancerEsofago
 	url = https://github.com/AnIsAsPe/ClassificadorCancerEsofago.git
+[submodule "02-ml-ai-for-the-working-analyst/02-arboles-de-decision-y-churn-rate/ClasificadorClientesTelecom"]
+	path = 02-ml-ai-for-the-working-analyst/02-arboles-de-decision-y-churn-rate/ClasificadorClientesTelecom
+	url = https://github.com/gonzalezulises/ClasificadorClientesTelecom.git
