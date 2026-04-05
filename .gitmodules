@@ -7,9 +7,9 @@
 [submodule " "]
 	path = " "
 	url = https://github.com/AnIsAsPe/Regresion-Robusta-para-estimar-tiempo-de-respuesta-de-un-servicio-de-emergencia.git
-[submodule "Regresion-Robusta-para-estimar-tiempo-de-respuesta-de-un-servicio-de-emergencia"]
-	path = Regresion-Robusta-para-estimar-tiempo-de-respuesta-de-un-servicio-de-emergencia
+[submodule "02-ml-ai-for-the-working-analyst/04-valores-extremos/RegresionRobusta-Bomberos"]
+	path = 02-ml-ai-for-the-working-analyst/04-valores-extremos/RegresionRobusta-Bomberos
 	url = https://github.com/AnIsAsPe/Regresion-Robusta-para-estimar-tiempo-de-respuesta-de-un-servicio-de-emergencia.git
-[submodule "Prediccion-produccion-electricidad"]
-	path = Prediccion-produccion-electricidad
+[submodule "02-ml-ai-for-the-working-analyst/05-series-de-tiempo/Prediccion-Electricidad"]
+	path = 02-ml-ai-for-the-working-analyst/05-series-de-tiempo/Prediccion-Electricidad
 	url = https://github.com/AnIsAsPe/Prediccion-produccion-electricidad.git
