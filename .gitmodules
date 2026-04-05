@@ -4,3 +4,12 @@
 [submodule "02-ml-ai-for-the-working-analyst/02-arboles-de-decision-y-churn-rate/ClasificadorClientesTelecom"]
 	path = 02-ml-ai-for-the-working-analyst/02-arboles-de-decision-y-churn-rate/ClasificadorClientesTelecom
 	url = https://github.com/gonzalezulises/ClasificadorClientesTelecom.git
+[submodule " "]
+	path = " "
+	url = https://github.com/AnIsAsPe/Regresion-Robusta-para-estimar-tiempo-de-respuesta-de-un-servicio-de-emergencia.git
+[submodule "Regresion-Robusta-para-estimar-tiempo-de-respuesta-de-un-servicio-de-emergencia"]
+	path = Regresion-Robusta-para-estimar-tiempo-de-respuesta-de-un-servicio-de-emergencia
+	url = https://github.com/AnIsAsPe/Regresion-Robusta-para-estimar-tiempo-de-respuesta-de-un-servicio-de-emergencia.git
+[submodule "Prediccion-produccion-electricidad"]
+	path = Prediccion-produccion-electricidad
+	url = https://github.com/AnIsAsPe/Prediccion-produccion-electricidad.git

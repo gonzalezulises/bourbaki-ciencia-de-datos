@@ -23,3 +23,5 @@ Thumbs.db
 # IDE
 .vscode/
 .idea/
+*.ipynb
+*.png
